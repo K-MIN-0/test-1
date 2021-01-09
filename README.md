@@ -78,11 +78,11 @@ Do it! 지옥에서 온 문서관리자 - 깃&깃허브 입문
 
 <google.com>
 [구글](google.com)
-[구글](google.com, "부")
+[구글](google.com, "부가 설명")
 
 이미지 삽입
 
-![이미지 연습](http://kyrieko.dothome.co.kr/images/first.jpg)
+![이미지 연습]() 주소삽입
 
 저장소 안에 images 디렉터리를 끌어와서 이미지 
 
